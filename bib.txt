@@ -1,17 +1,6 @@
-@misc{https://doi.org/10.48550/arxiv.2301.02700,
-  doi = {10.48550/ARXIV.2301.02700},
-  
-  url = {https://arxiv.org/abs/2301.02700},
-  
-  author = {Abdal, Rameen and Lee, Hsin-Ying and Zhu, Peihao and Chai, Menglei and Siarohin, Aliaksandr and Wonka, Peter and Tulyakov, Sergey},
-  
-  keywords = {Computer Vision and Pattern Recognition (cs.CV), Graphics (cs.GR), FOS: Computer and information sciences, FOS: Computer and information sciences},
-  
-  title = {3DAvatarGAN: Bridging Domains for Personalized Editable Avatars},
-  
-  publisher = {arXiv},
-  
-  year = {2023},
-  
-  copyright = {Creative Commons Attribution 4.0 International}
+@article{abdal20233davatargan,
+  title={3DAvatarGAN: Bridging Domains for Personalized Editable Avatars},
+  author={Abdal, Rameen and Lee, Hsin-Ying and Zhu, Peihao and Chai, Menglei and Siarohin, Aliaksandr and Wonka, Peter and Tulyakov, Sergey},
+  journal={arXiv preprint arXiv:2301.02700},
+  year={2023}
 }
