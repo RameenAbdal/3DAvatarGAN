@@ -1,0 +1,10 @@
+Deep learning-based image and video processing is a
+tool for image/video understanding, animation, and artistic expression. Similar to most software in this domain,
+our work could be used to produce offensive results. An
+application of concern would be if a user would generate
+offensive caricatures and cartoons of other people without
+consent. This can be used to insinuate biases against people or can have a detrimental effect on a person’s autonomy,
+dignity, and/or privacy. The images used in this work are
+taken or derived from the FFHQ dataset which has appropriate licenses for non-commercial research use and to
+the best of our knowledge, is committed to protecting the
+privacy of the individuals who do not wish to be included.
